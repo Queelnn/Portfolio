@@ -275,6 +275,14 @@ section.portfolio .flex {
   margin-top: 60px;
 }
 
+#raquel-img {
+  width: 150px;
+  height: auto;
+  border-radius: 50%;
+  border: 4px solid #9b99f8;
+  box-shadow: 0 0 20px #9b99f8;
+}
+
 .img-port {
   width: 360px;
   height: 460px;
